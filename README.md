@@ -43,7 +43,7 @@ After applying the function to all tags, the key shows as following:
  
 
 | id    |    key   |   value    | type|
-| ------------- |:-------------:|
+|:-------------:|:-------------:|:-------------:|:-------------:|
 |419366584	|cityracks.street	|Varick St	|regular|
 | 1827182430 |	street	|Prospect Place	|addr|
 |1827182430	|housenumber	|386	|addr|
